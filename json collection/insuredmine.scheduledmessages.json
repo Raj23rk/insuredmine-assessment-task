@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "695f8dd7906cbc641a00c30e"
+  },
+  "message": "Test scheduled message at 4:30 AM",
+  "scheduledAt": {
+    "$date": "2026-01-07T23:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-01-08T10:58:31.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f8eaf906cbc641a00c310"
+  },
+  "message": "Test scheduled message at 4:30 AM",
+  "scheduledAt": {
+    "$date": "2026-01-07T23:05:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-01-08T11:02:07.675Z"
+  },
+  "__v": 0
+}]
